@@ -1,3 +1,3 @@
 ## Web_Cam_On application
 
-This is applicantion where when button started your camera became on and start detect movments on the screen.
+This is application where when button started your camera became on and start detect motions on the screen. I built it with helps of Claude.
